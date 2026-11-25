@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.25.3",
+ "version": "v2026.11.25.4",
  "board": "xiaomi,mi-router-cr660x",
- "package": "packages/v2026.11.25.3.tar.gz",
- "sha256": "feb5e1ccb2ac0d399f8c41f4135f5c957c3aa76fcdf66f3fa0e238a0d08ce0ff",
- "size": 91751,
- "notes": "首个在线升级版本：面板升级功能上线；删除节点的确认窗口修复。",
+ "package": "packages/v2026.11.25.4.tar.gz",
+ "sha256": "a9d4d0b9d947ee704ff4cdda1bb25e50cd5722592aefb41f1527be9c6244b4e2",
+ "size": 92033,
+ "notes": "说明页增加「面板升级」一节。",
  "published": "2026-11-25",
  "mirrors": []
 }
