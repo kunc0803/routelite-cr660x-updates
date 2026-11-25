@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.25.5",
+ "version": "v2026.11.25.6",
  "board": "xiaomi,mi-router-cr660x",
- "package": "packages/v2026.11.25.5.tar.gz",
- "sha256": "ae6ef2bff76921d9fa1037b7640954bd39b3ee6114c86015831e4051f522ee3f",
- "size": 92585,
- "notes": "「家宽」页增加「何为链式代理？」说明链接。",
+ "package": "packages/v2026.11.25.6.tar.gz",
+ "sha256": "08f6eee77a82fd7a0ad45f605d0bfd70d558923d6629316307bff72501e97b4b",
+ "size": 92613,
+ "notes": "「网站分流 → 加密」新增 AICoin（aicoin.com）。",
  "published": "2026-11-25",
  "mirrors": []
 }
