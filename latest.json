@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.25.4",
+ "version": "v2026.11.25.5",
  "board": "xiaomi,mi-router-cr660x",
- "package": "packages/v2026.11.25.4.tar.gz",
- "sha256": "a9d4d0b9d947ee704ff4cdda1bb25e50cd5722592aefb41f1527be9c6244b4e2",
- "size": 92033,
- "notes": "说明页增加「面板升级」一节。",
+ "package": "packages/v2026.11.25.5.tar.gz",
+ "sha256": "ae6ef2bff76921d9fa1037b7640954bd39b3ee6114c86015831e4051f522ee3f",
+ "size": 92585,
+ "notes": "「家宽」页增加「何为链式代理？」说明链接。",
  "published": "2026-11-25",
  "mirrors": []
 }
