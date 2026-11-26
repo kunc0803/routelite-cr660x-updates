@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.26.1",
+ "version": "v2026.11.26.2",
  "board": "xiaomi,mi-router-cr660x",
- "package": "packages/v2026.11.26.1.tar.gz",
- "sha256": "6ce84bce836dd2ffa949bd8d8bf04007fb48ccac1f067b7aab0d1c746031f4de",
- "size": 95994,
- "notes": "新增「我的机场」：收藏机场官网网址、账号、续费日期、流量和费用，快到期会提醒（不存密码）。",
+ "package": "packages/v2026.11.26.2.tar.gz",
+ "sha256": "8124e1e6204ca8731dcd2c09d926ca5f1f146d36df60ae9598b346866e810e73",
+ "size": 110419,
+ "notes": "节点和订阅可以「查看链接」：显示二维码，手机代理 App 扫码就能导入，也能复制链接。",
  "published": "2026-11-26",
  "mirrors": []
 }
