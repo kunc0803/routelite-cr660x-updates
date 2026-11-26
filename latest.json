@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.25.6",
+ "version": "v2026.11.26.1",
  "board": "xiaomi,mi-router-cr660x",
- "package": "packages/v2026.11.25.6.tar.gz",
- "sha256": "08f6eee77a82fd7a0ad45f605d0bfd70d558923d6629316307bff72501e97b4b",
- "size": 92613,
- "notes": "「网站分流 → 加密」新增 AICoin（aicoin.com）。",
- "published": "2026-11-25",
+ "package": "packages/v2026.11.26.1.tar.gz",
+ "sha256": "6ce84bce836dd2ffa949bd8d8bf04007fb48ccac1f067b7aab0d1c746031f4de",
+ "size": 95994,
+ "notes": "新增「我的机场」：收藏机场官网网址、账号、续费日期、流量和费用，快到期会提醒（不存密码）。",
+ "published": "2026-11-26",
  "mirrors": []
 }
