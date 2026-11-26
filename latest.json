@@ -1,10 +1,10 @@
 {
- "version": "v2026.11.26.2",
+ "version": "v2026.11.26.3",
  "board": "xiaomi,mi-router-cr660x",
- "package": "packages/v2026.11.26.2.tar.gz",
- "sha256": "8124e1e6204ca8731dcd2c09d926ca5f1f146d36df60ae9598b346866e810e73",
- "size": 110419,
- "notes": "节点和订阅可以「查看链接」：显示二维码，手机代理 App 扫码就能导入，也能复制链接。",
+ "package": "packages/v2026.11.26.3.tar.gz",
+ "sha256": "c87c161a43279d7642454292d01ac2f3a9aedc4884104000314925481925eade",
+ "size": 114423,
+ "notes": "新增「定时重启」：可选每天或每周、几点重启和时区，让路由器长期运行更稳。",
  "published": "2026-11-26",
  "mirrors": []
 }
